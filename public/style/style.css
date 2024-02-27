@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Quran1";
+    src: url("./font/quran1.ttf");
+}
+@font-face {
+    font-family: "nice";
+    src: url("./font/nice.ttf");
+}
+
+@font-face {
+    font-family: "Quran2";
+    src: url("./font/quran2.ttf");
+}
+
+@font-face {
+    font-family: "kurd";
+    src: url("./font/kurd.ttf");
+}
+
+.quran1 {
+    font-family: "Quran1";
+}
+
+.quran2 {
+    font-family: "Quran2";
+}
+
+.kurd {
+    font-family: "kurd";
+}
+* {
+    font-family: "nice";
+}
